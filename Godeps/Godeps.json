@@ -7,8 +7,8 @@
 	"Deps": [
 		{
 			"ImportPath": "github.com/ryanbradynd05/go-tmdb",
-			"Comment": "1.0.0-8-g4521ed9",
-			"Rev": "4521ed9b0002a85630b18259d140b8b6f647bcfa"
+			"Comment": "1.0.0-10-g708d1e7",
+			"Rev": "708d1e76218065afd3249d90d4d5963b0d60ef70"
 		},
 		{
 			"ImportPath": "github.com/tucnak/telebot",
