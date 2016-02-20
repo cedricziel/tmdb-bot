@@ -1,0 +1,6 @@
+.git
+Godeps
+*.go
+tmp
+bin
+vendor
