@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/cedricziel/tmdb-bot",
+	"GoVersion": "go1.6",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/ryanbradynd05/go-tmdb",
+			"Comment": "1.0.0-8-g4521ed9",
+			"Rev": "4521ed9b0002a85630b18259d140b8b6f647bcfa"
+		},
+		{
+			"ImportPath": "github.com/tucnak/telebot",
+			"Comment": "v1.0-41-gdf37d2d",
+			"Rev": "df37d2d1183dac6aa560f4ccf63243258f9ab88d"
+		}
+	]
+}
